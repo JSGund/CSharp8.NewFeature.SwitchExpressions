@@ -1,0 +1,11 @@
+D:\Other\POC\CSharp8.NewFeature.SwitchExpressions\CSharp8.NewFeature.SwitchExpressions\bin\Debug\netcoreapp3.0\CSharp8.NewFeature.SwitchExpressions.exe
+D:\Other\POC\CSharp8.NewFeature.SwitchExpressions\CSharp8.NewFeature.SwitchExpressions\bin\Debug\netcoreapp3.0\CSharp8.NewFeature.SwitchExpressions.deps.json
+D:\Other\POC\CSharp8.NewFeature.SwitchExpressions\CSharp8.NewFeature.SwitchExpressions\bin\Debug\netcoreapp3.0\CSharp8.NewFeature.SwitchExpressions.runtimeconfig.json
+D:\Other\POC\CSharp8.NewFeature.SwitchExpressions\CSharp8.NewFeature.SwitchExpressions\bin\Debug\netcoreapp3.0\CSharp8.NewFeature.SwitchExpressions.runtimeconfig.dev.json
+D:\Other\POC\CSharp8.NewFeature.SwitchExpressions\CSharp8.NewFeature.SwitchExpressions\bin\Debug\netcoreapp3.0\CSharp8.NewFeature.SwitchExpressions.dll
+D:\Other\POC\CSharp8.NewFeature.SwitchExpressions\CSharp8.NewFeature.SwitchExpressions\bin\Debug\netcoreapp3.0\CSharp8.NewFeature.SwitchExpressions.pdb
+D:\Other\POC\CSharp8.NewFeature.SwitchExpressions\CSharp8.NewFeature.SwitchExpressions\obj\Debug\netcoreapp3.0\CSharp8.NewFeature.SwitchExpressions.csproj.CoreCompileInputs.cache
+D:\Other\POC\CSharp8.NewFeature.SwitchExpressions\CSharp8.NewFeature.SwitchExpressions\obj\Debug\netcoreapp3.0\CSharp8.NewFeature.SwitchExpressions.AssemblyInfoInputs.cache
+D:\Other\POC\CSharp8.NewFeature.SwitchExpressions\CSharp8.NewFeature.SwitchExpressions\obj\Debug\netcoreapp3.0\CSharp8.NewFeature.SwitchExpressions.AssemblyInfo.cs
+D:\Other\POC\CSharp8.NewFeature.SwitchExpressions\CSharp8.NewFeature.SwitchExpressions\obj\Debug\netcoreapp3.0\CSharp8.NewFeature.SwitchExpressions.dll
+D:\Other\POC\CSharp8.NewFeature.SwitchExpressions\CSharp8.NewFeature.SwitchExpressions\obj\Debug\netcoreapp3.0\CSharp8.NewFeature.SwitchExpressions.pdb
